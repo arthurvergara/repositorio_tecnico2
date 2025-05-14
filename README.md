@@ -11,3 +11,4 @@
 
 #kotlin lista do mercado https://pl.kotl.in/Kgs9X6u5j
 
+#kotlin pontos turisticos https://pl.kotl.in/pe0WO4ukI
